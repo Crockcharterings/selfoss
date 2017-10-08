@@ -4,7 +4,7 @@
     "type": "project",
     "require": {
         "php": ">= 5.4",
-        "bcosca/fatfree-core": "^3.6",
+        "bcosca/fatfree-core": "dev-master#93c91537c13c436c972d6679a464b776aca4a96c",
         "fossar/tcpdf-parser": "^6.2",
         "fossar/twitteroauth-php54": "^0.7.3-beta",
         "fossar/guzzle-transcoder": "^0.0.3",
